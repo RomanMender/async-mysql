@@ -1,0 +1,14 @@
+{
+  "name": "async-mysql",
+  "version": "1.0.0",
+  "description": "Makes a mysql database easyer to use",
+  "main": "src\\index.js",
+  "scripts": {
+    "test": "node tests\\test"
+  },
+  "author": "https://github.com/RomanMender",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
